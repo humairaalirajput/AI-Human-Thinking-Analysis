@@ -35,5 +35,5 @@ Includes:
 ## Conclusion
 AI is helpful but should be used carefully. Overdependence can reduce independent thinking.
 
-## 👩‍💻 Author
+## Author
 Humaira Ali  
